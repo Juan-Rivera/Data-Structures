@@ -1,5 +1,5 @@
 # Data Structures 
-
+initial push
 Topics:
  * Singly Linked Lists
  * Queues and Stacks
